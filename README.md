@@ -10,6 +10,7 @@ Sales Territories Analyzed
 | **Region Director** | Cassie Chambers | Ana Jilani |
 | **State** | Colorado | Connecticut |
 | **Number of Stores** | 18 | 8 |
+
 Files in This Repository
 | File | Description |
 | student_sales_analysis.ipynb | Jupyter Notebook — full analysis |
