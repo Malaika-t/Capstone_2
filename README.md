@@ -3,6 +3,7 @@ Project Description:
 This project presents a cross-region sales analysis for EmporiUm, a growing student bookstore chain that sells textbooks, tech gear, art supplies, apparel, stationery, and more — both in-store and online.
 As part of the Capstone 2 data analytics project, two sales territories from different regions were assigned for comparison. This cross-region analysis examines sales performance, customer behavior, product category trends, and provides data-driven marketing recommendations.
 Sales Territories Analyzed
+
 | | Territory 1 | Territory 2 |
 |---|---|---|
 | **Territory Manager** | Jim Heck | Ellen Lemon |
@@ -12,7 +13,9 @@ Sales Territories Analyzed
 | **Number of Stores** | 18 | 8 |
 
 Files in This Repository
+
 | File | Description |
+| --- | --- |
 | student_sales_analysis.ipynb | Jupyter Notebook — full analysis |
 | StoreSales.csv | 335,129 transaction records (Jan 2022 – Sep 2025) |
 | StoreDetail.csv | 111 store locations with territory and region info |
