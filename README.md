@@ -1,7 +1,7 @@
 # Capstone_2 - EmporiUm Sales Territory Analysis
 Project Description:
 This project presents a cross-region sales analysis for EmporiUm, a growing student bookstore chain that sells textbooks, tech gear, art supplies, apparel, stationery, and more — both in-store and online.
-As part of the Capstone 2 data analytics project, two sales territories from different regions were assigned for comparison. This cross-region analysis examines sales performance, customer behavior, product category trends, and provides data-driven marketing recommendations.
+I was assigned to compare two sales territories from different regions. This cross-region analysis examines sales performance, customer behavior, product category trends, and provides data-driven marketing recommendations.
 Sales Territories Analyzed
 
 | | Territory 1 | Territory 2 |
@@ -27,22 +27,22 @@ Files in This Repository
 
 Analysis Highlights
 
-Monthly revenue trends across both territories for the full data period
-Store-by-store performance rankings within each territory
-Top customers identified by matching rewards IDs to the customer list
-Product category breakdown — transactions and revenue by category per territory
-Cross-region comparison normalized by store count for a fair apples-to-apples view
-Q4 2025 marketing recommendation backed by data findings
+- Monthly revenue trends across both territories for the full data period
+- Store-by-store performance rankings within each territory
+- Top customers identified by matching rewards IDs to the customer list
+- Product category breakdown — transactions and revenue by category per territory
+- Cross-region comparison normalized by store count
+- Q4 2025 marketing recommendation backed by data findings
 
 
 Key Findings
 
-Technology & Accessories drives ~71% of revenue in both territories
-Both regions show synchronized back-to-school revenue spikes (Aug–Sep and Jan)
-Only ~10% of transactions are linked to a rewards ID — a major growth opportunity
-Denver (Store #705) is the top-performing store in the West with ~$917K in revenue
-New London (Store #870) leads the East territory at ~$331K
-Connecticut stores are remarkably consistent ($277K–$331K range across all 8 stores)
+- Technology & Accessories drives ~71% of revenue in both territories
+- Both regions show synchronized back-to-school revenue spikes (Aug–Sep and Jan)
+- Only ~10% of transactions are linked to a rewards ID — a major growth opportunity
+- Denver (Store #705) is the top-performing store in the West with ~$917K in revenue
+- New London (Store #870) leads the East territory at ~$331K
+- Connecticut stores are remarkably consistent ($277K–$331K range across all 8 stores)
 
 Requirements:
 
@@ -53,8 +53,8 @@ Requirements:
 
 Tools Used:
 
-- Python 3 — primary programming language
-- pandas — data loading, cleaning, merging, and analysis
-- matplotlib — data visualization (6 charts)
-- Jupyter Notebook — interactive analysis environment
+- Python 3
+- pandas 
+- matplotlib 
+- Jupyter Notebook 
 - Power Point 
