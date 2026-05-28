@@ -29,7 +29,7 @@ Analysis Highlights
 
 | Finding | West (Colorado) | East (Connecticut) |
 |---|---|---|
-| **Revenue engine** | Tech & Accessories (71%) | Tech & Accessories (71%) |
+| **Revenue ** | Tech & Accessories (71%) | Tech & Accessories (71%) |
 | **Seasonal pattern** | Aug–Sep + Jan spikes | Aug–Sep + Jan spikes |
 | **Store consistency** | Wide spread (Denver outlier) | Very consistent across all stores |
 | **Rewards coverage** | ~10% | ~10% |
