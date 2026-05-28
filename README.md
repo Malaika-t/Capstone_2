@@ -27,12 +27,14 @@ Files in This Repository
 
 Analysis Highlights
 
-- Monthly revenue trends across both territories for the full data period
-- Store-by-store performance rankings within each territory
-- Top customers identified by matching rewards IDs to the customer list
-- Product category breakdown — transactions and revenue by category per territory
-- Cross-region comparison normalized by store count
-- Q4 2025 marketing recommendation backed by data findings
+| Finding | West (Colorado) | East (Connecticut) |
+|---|---|---|
+| **Revenue engine** | Tech & Accessories (71%) | Tech & Accessories (71%) |
+| **Seasonal pattern** | Aug–Sep + Jan spikes | Aug–Sep + Jan spikes |
+| **Store consistency** | Wide spread (Denver outlier) | Very consistent across all stores |
+| **Rewards coverage** | ~10% | ~10% |
+| **Per-store avg** | ~$356K | ~$299K |
+| **Growth trend** | Positive | Positive |
 
 
 Key Findings
