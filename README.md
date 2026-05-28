@@ -1,7 +1,8 @@
 # Capstone_2 - EmporiUm Sales Territory Analysis
-Project Description:
+Project Overview:
 This project presents a cross-region sales analysis for EmporiUm, a growing student bookstore chain that sells textbooks, tech gear, art supplies, apparel, stationery, and more — both in-store and online.
 I was assigned to compare two sales territories from different regions. This cross-region analysis examines sales performance, customer behavior, product category trends, and provides data-driven marketing recommendations.
+
 Sales Territories Analyzed
 
 | | Territory 1 | Territory 2 |
@@ -11,19 +12,6 @@ Sales Territories Analyzed
 | **Region Director** | Cassie Chambers | Ana Jilani |
 | **State** | Colorado | Connecticut |
 | **Number of Stores** | 18 | 8 |
-
-Files in This Repository
-
-| File | Description |
-| --- | --- |
-| student_sales_analysis.ipynb | Jupyter Notebook — full analysis |
-| StoreSales.csv | 335,129 transaction records (Jan 2022 – Sep 2025) |
-| StoreDetail.csv | 111 store locations with territory and region info |
-| Products.csv | 669 products with category mappings |
-| ProductCategories.csv | 52 category and subcategory definitions |
-| customer_list.csv | 521 registered rewards program customers |
-| README.md | This file |
-| 10 mintues video | PowerPoint Presentation |
 
 Analysis Highlights
 
@@ -36,7 +24,6 @@ Analysis Highlights
 | **Per-store avg** | ~$356K | ~$299K |
 | **Growth trend** | Positive | Positive |
 
-
 Key Findings
 
 - Technology & Accessories drives ~71% of revenue in both territories
@@ -46,17 +33,38 @@ Key Findings
 - New London (Store #870) leads the East territory at ~$331K
 - Connecticut stores are remarkably consistent ($277K–$331K range across all 8 stores)
 
+
+Files in This Repository
+
+| File | Description |
+| --- | --- |
+| Tariq_sales_analysis.ipynb | Jupyter Notebook — full analysis |
+| StoreSales.csv | 335,129 transaction records (Jan 2022 – Sep 2025) |
+| StoreDetail.csv | 111 store locations with territory and region info |
+| Products.csv | 669 products |
+| ProductCategories.csv | 52 category and subcategory |
+| customer_list.csv | 521 registered rewards program customers |
+| README.md | This file |
+| 10 mintues video | PowerPoint Presentation |
+
+
 Requirements:
 
 - pandas
 - matplotlib
 - numpy
 - jupyter
+- Video 
 
 Tools Used:
 
+- GitHub
 - Python 3
 - pandas 
 - matplotlib 
-- Jupyter Notebook 
-- Power Point 
+- Jupyter Notebook
+- VS code
+- Microsoft Power Point
+
+- Capstone Video: Link Here:
+- 
