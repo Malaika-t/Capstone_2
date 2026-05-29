@@ -66,5 +66,5 @@ Tools Used:
 - VS code
 - Microsoft Power Point
 
-- Capstone Video: Link Here:
-- https://yearuptemp-my.sharepoint.com/:v:/g/personal/mtariq_my_yearupunited_org/IQAiMl4cUlghTbh4UxRKFveZAXKzyn-VN357l_NpYOMjm6Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AYiYgH
+- Capstone Video: Link Here: https://yearuptemp-my.sharepoint.com/:v:/g/personal/mtariq_my_yearupunited_org/IQAiMl4cUlghTbh4UxRKFveZAXKzyn-VN357l_NpYOMjm6Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AYiYgH
+-
